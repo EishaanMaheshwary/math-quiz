@@ -1,0 +1,21 @@
+body{
+    background-image: url(download.jpg);
+    background-repeat: no-repeat;
+  background-size: cover;
+    text-align: center;
+}
+p{
+    font-size: 40px;
+    color:white;
+}
+div{
+    background-color: white;
+    float:none;
+    padding:10px;
+    border-radius: 15px;
+    width: 500px;
+    margin-left: 550px;
+}
+.div2{
+    margin-top:50px;
+}
